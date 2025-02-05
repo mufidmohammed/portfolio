@@ -186,10 +186,6 @@ nav{
     color: var(--text-color-second);
     margin-block: 20px;
 }
-.typedText{
-    text-transform: capitalize;
-    color: var(--text-color-third);
-}
 .featured-text-info{
     font-size: 15px;
     margin-bottom: 30px;
